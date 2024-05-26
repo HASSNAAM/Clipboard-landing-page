@@ -105,4 +105,4 @@ In future projects, I want to focus on improving the accessibility of my web pag
 
 ## Acknowledgments
 
-I would like to thank the Frontend Mentor community for their support and feedback on my project. Special thanks to [Mentor Name] for their guidance and valuable insights.
+I would like to thank the Frontend Mentor community for their support and feedback on my project.
